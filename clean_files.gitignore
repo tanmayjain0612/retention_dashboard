@@ -1,0 +1,32 @@
+# Jupyter files
+.ipynb_checkpoints/
+*.ipynb
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit cache
+.streamlit/
+
+# Raw/intermediate files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+input_data/
+output_data/
+
+# IDEs
+.vscode/
+.idea/
+
+.ipynb_checkpoints/
+*.csv
+*.parquet
+*.log
+*.tmp
+__pycache__/
+.DS_Store
+.env
