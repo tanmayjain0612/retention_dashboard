@@ -1,0 +1,22 @@
+﻿Insurer,segment,policy_type,premium,Target_1,Target_2,Target_3,Target_4,Conditions
+Chola,All,All,net,"50, 2.25%","60, 3%","75, 3.5%",," 40% will be H1 target, on achievement will release H1 amount. 
+On achievement of Pvt Car slab target , respective PO % will be released in Pvt Car Segment. Pvt Car incentive will be released on OD premium. On Non achievement of Pvt Car 1st slab target will result in deduction of 0.5% on overall slab."
+Chola,Car,"Comprehensive Policy, own_damage",net,"12, 2.25%","16, 3%","20, 3.5%",,
+Liberty,Car,"Comprehensive Policy, own_damage",net,"25, 4%",,,,
+Liberty,Car,third_party,tp,"25, 4%",,,,
+Royal Sundaram,Car,"Comprehensive Policy, own_damage",net,"15%, 2.5%","25%, 3.5%",,,
+Royal Sundaram,Car,third_party,tp,"15%, 1%","25%, 1.4%",,,
+Royal Sundaram,GCV,All,net,"15%, 1%","25%, 1.4%",,,
+Royal Sundaram,PCV,All,net,"15%, 1%","25%, 1.4%",,,
+Royal Sundaram,Bike,All,net,"15%, 1%","25%, 1.4%",,,
+Royal Sundaram,School Bus,All,net,"15%, 1%","25%, 1.4%",,,
+Oriental,All,All,net,"1, 2%","3, 3%","5, 3.5%",,
+SBI,Car,All,net,"40, 3%","60, 3.5%","90, 4%",,
+SBI,All,All,net,,,,,
+SBI,CV - Preferred,All,net,"110, 1.75%","115, 2.25%","120, 2.75%",,
+SBI,CV - Less Preferred,All,net,"25, 0.4%","25, 0.6%","40, 0.75%",,
+Reliance,Car,All,net,"24, 1%","27, 1.5%","30, 2%","31, 4%",
+Reliance,Bike,All,net,"12, 1%","15, 1.5%","18, 2%","19, 4%",
+Reliance,GCV,All,net,"40, 1%","43, 1.5%","46, 1.75%","49, 2%",
+Reliance,PCV,All,net,"30, 1%","33, 1.5%","36, 1.75%","39, 2%",
+Reliance,School Bus,All,net,60,65,70,75,
